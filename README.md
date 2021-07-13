@@ -1,16 +1,17 @@
-### Hi there 👋
+👨‍💻 About Me:
 
-<!--
-**Usaid-Bin-Rehan/Usaid-Bin-Rehan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Bs Computer Science Sophomore at NUCES-FAST Karachi interested in pursuing a career in AI Software Engineering
 
-Here are some ideas to get you started:
+🏆 Achievements:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+1. Highest Grand Total in Section in the course: Introduction to Information and Communication Technologies
+2. Highest Final Exam, Project and Grand Total in the course: Object Oriented Programming
+3. Highest Final Exam in the course: Communication and Presentation Skills
+
+👥 NUCES-FAST Organizations Participant:
+
+1. Association for Computing Machinery (ACM): Made necessary arrangements for Sponsors as Guest Relations Officer on Developers Day 2021
+2. SOFTEC: 2021 Ambassador Code 135
+3. Developer Student Club - Powered by Google Developers: Media and Promotions Officer
+
+<!--**Usaid-Bin-Rehan/Usaid-Bin-Rehan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.-->
