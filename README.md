@@ -1,6 +1,6 @@
 👨‍💻 About Me:
 
-Bs Computer Science Sophomore at NUCES-FAST Karachi interested in pursuing a career in AI Software Engineering
+Bs Computer Science Sophomore at NUCES-FAST Karachi interested in gaining exposure to fundamentals of various technologies / frameworks before specializing in AI (ML / DL) and SQA
 
 🏆 Achievements:
 
