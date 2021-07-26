@@ -4,7 +4,7 @@ Bs Computer Science Sophomore at NUCES-FAST Karachi interested in gaining exposu
 
 🛠️ Projects:
 
-1. Repository on each Programming Paradigm (Unique_Programs as POP, Personal_Finance_Console_App as OOP, Functional in Scala, Network in Perl, and Concurrent & Parallel in C++)
+1. Repository on each Programming Paradigm (Unique_Programs as POP, Personal_Finance_Console_App includes Generic and OOP, Functional in Scala, Network in Perl, and Concurrent & Parallel in C++)
 2. Flutter Mini-Projects
 
 💼 Experience:
