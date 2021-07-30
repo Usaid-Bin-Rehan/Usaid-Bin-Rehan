@@ -1,6 +1,6 @@
 👨‍💻 About Me:
 
-Bs Computer Science Sophomore at NUCES-FAST Karachi interested in gaining exposure to fundamentals of various technologies / frameworks through internships in SQA, CyberSecurity, Cloud / Data Engineering and DevOps before specializing in AI.
+Bs Computer Science Sophomore at NUCES-FAST KHI having experimental exposure in various frameworks / technologies and interested in mastering CS fundamentals before specializing in Data Science / AI
 
 🛠️ Projects:
 
