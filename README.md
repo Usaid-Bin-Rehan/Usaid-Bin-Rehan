@@ -1,6 +1,6 @@
 👨‍💻 About Me:
 
-Bs Computer Science Sophomore at NUCES-FAST KHI having experimental exposure in various frameworks / technologies and interested in mastering CS fundamentals before specializing in Data Science / AI
+Bs Computer Science Sophomore at NUCES-FAST KHI having experimental exposure in various frameworks / technologies and interested in mastering CS fundamentals before specializing as Machine-Learning Engineer
 
 🛠️ Projects / Skills:
 
