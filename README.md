@@ -7,7 +7,8 @@ Bs Computer Science Sophomore at NUCES-FAST KHI having experimental exposure in 
 1. Repository on each Programming Paradigm (Unique_Programs as POP, Personal_Finance_Console_App includes Generic and OOP, Functional in Scala, Network in Perl, and Concurrent & Parallel in C++)
 2. Website Development: PHP Mini-Projects / APIs with Wrappers AND ASP.NET
 3. Cross-platform Development: Flutter Mini-Projects
-4. Data Analysis: Exploratory or Predictive in Python / Data Cleaning AND Power BI
+4. Business Intelligence Analytics: Oracle BI AND Tableau
+5. Predictive Data Analysis (Data Preprocessing & Machine Learning): Python (Numpy / Pandas / Seaborn / Sci-kit Learn)
 
 💼 Experience:
 
