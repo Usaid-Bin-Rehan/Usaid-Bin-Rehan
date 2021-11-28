@@ -23,7 +23,7 @@ Bs Computer Science Sophomore at NUCES-FAST KHI having experimental exposure in 
 
 👥 NUCES-FAST Organizations Member:
 
-1. Association for Computing Machinery (ACM): Made necessary arrangements for Sponsors as Guest Relations Officer on Developers Day 2021
+1. Association for Computing Machinery: Made necessary arrangements for Sponsors as Guest Relations Officer on Developers Day '21
 2. SOFTEC: 2021 Ambassador Code 135
 3. Developer Student Club - Powered by Google Developers: Media and Promotions Officer --> Google Cloud Platform Learner
 
