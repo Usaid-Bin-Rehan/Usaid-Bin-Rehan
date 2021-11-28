@@ -1,6 +1,6 @@
 👨‍💻 About Me:
 
-Bs Computer Science Sophomore at NUCES-FAST KHI having experimental exposure in various frameworks / technologies and interested in mastering CS fundamentals before specializing as Machine-Learning Engineer
+Bs Computer Science Sophomore at NUCES-FAST KHI having experimental exposure in various frameworks / technologies and interested in mastering fundamentals before pursuing career as Data Scientist and specializing in Artificial Intelligence Development.
 
 🛠️ Projects / Skills:
 
@@ -12,7 +12,8 @@ Bs Computer Science Sophomore at NUCES-FAST KHI having experimental exposure in 
 
 💼 Experience:
 
-1. Oracle E-Business Suite (ERP+CRM+SCM) SQL DataBase-Administrator at Naveena Group
+1. Oracle E-Business Suite (BI+ERP+CRM+SCM) SQL DataBase-Administrator at Naveena Group
+2. Data Science Instructor at Developer Student Club - Powered by Google Developers , FAST-NUCES Karachi
 
 🏆 Achievements:
 
@@ -20,7 +21,7 @@ Bs Computer Science Sophomore at NUCES-FAST KHI having experimental exposure in 
 2. Highest Final Exam, Project and Grand Total in Section with Max Grade (A+) in the course: Object Oriented Programming
 3. Highest Final Exam in the course: Communication and Presentation Skills
 
-👥 NUCES-FAST Organizations Participant:
+👥 NUCES-FAST Organizations Member:
 
 1. Association for Computing Machinery (ACM): Made necessary arrangements for Sponsors as Guest Relations Officer on Developers Day 2021
 2. SOFTEC: 2021 Ambassador Code 135
