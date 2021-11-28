@@ -25,6 +25,6 @@ Bs Computer Science Sophomore at NUCES-FAST KHI having experimental exposure in 
 
 1. Association for Computing Machinery (ACM): Made necessary arrangements for Sponsors as Guest Relations Officer on Developers Day 2021
 2. SOFTEC: 2021 Ambassador Code 135
-3. Developer Student Club - Powered by Google Developers: Media and Promotions Officer (2020) --> Google Cloud Platform Learner (2021)
+3. Developer Student Club - Powered by Google Developers: Media and Promotions Officer ('20) --> Google Cloud Platform Learner ('21)
 
 <!--**Usaid-Bin-Rehan/Usaid-Bin-Rehan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.-->
