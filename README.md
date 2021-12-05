@@ -12,8 +12,9 @@ Bs Computer Science Sophomore at NUCES-FAST KHI having experimental exposure in 
 
 💼 Experience:
 
-1. Oracle E-Business Suite (BI+ERP+CRM+SCM) SQL DataBase-Administrator at Naveena Group
-2. Data Science Instructor at Developer Student Club - Powered by Google Developers , FAST-NUCES Karachi
+1. Oracle E-Business Suite (BI+ERP+CRM+SCM) SQL DataBase-Administrator at Naveena Group (2020+)
+2. Data Science Instructor at Developer Student Club NUCES - Powered by Google Developers , NUCES-FAST KHI (2021)
+3. Google Cloud Platform Learner at Developer Student Club NUCES - Powered by Google Developers , NUCES-FAST KHI (2021)
 
 🏆 Achievements:
 
@@ -21,10 +22,6 @@ Bs Computer Science Sophomore at NUCES-FAST KHI having experimental exposure in 
 2. Highest Final Exam, Project and Grand Total in Section with Max Grade (A+) in the course: Object Oriented Programming
 3. Highest Final Exam in the course: Communication and Presentation Skills
 
-👥 NUCES-FAST Organizations Member:
 
-1. Association for Computing Machinery: Made necessary arrangements for Sponsors as Guest Relations Officer on Developers Day '21
-2. SOFTEC: 2021 Ambassador Code 135
-3. Developer Student Club - Powered by Google Developers: Media and Promotions Officer --> Google Cloud Platform Learner
 
 <!--**Usaid-Bin-Rehan/Usaid-Bin-Rehan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.-->
