@@ -4,11 +4,29 @@ Bs Computer Science Sophomore at NUCES-FAST KHI having experimental exposure in 
 
 🛠️ Projects / Skills:
 
+Repositories:
 1. Repository on each Programming Paradigm (Unique_Programs as POP, Personal_Finance_Console_App includes Generic and OOP, Functional in Scala, Network in Perl, and Concurrent & Parallel in C++)
 2. Website Development: PHP Mini-Projects / APIs with Wrappers AND ASP.NET
 3. Cross-platform Development: Flutter Mini-Projects
 4. Business Intelligence Analytics: Oracle BI AND Tableau
 5. Predictive Data Analysis (Data Preprocessing & Machine Learning): Python (Numpy / Pandas / Seaborn / Sci-kit Learn)
+
+20+ Projects:
+- Python (Data Preprocessing - Numpy / Pandas / Seaborn) = 3
+- Flutter & Firebase = 2
+- APIs = 3
+- PHP = 2
+- ASP.NET = 0
+- C++ = 2
+- Programming Paradigms = 5
+- Web Designing = 2
+
+Tech Stack:
+- Oracle BI
+- Tableau
+- SQL
+- Numpy / Pandas / Seaborn / Scikit-Learn
+- C++
 
 Currently Working on:
 1. Project using Microsoft Macro Assembler
