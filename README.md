@@ -10,11 +10,17 @@ Bs Computer Science Sophomore at NUCES-FAST KHI having experimental exposure in 
 4. Business Intelligence Analytics: Oracle BI AND Tableau
 5. Predictive Data Analysis (Data Preprocessing & Machine Learning): Python (Numpy / Pandas / Seaborn / Sci-kit Learn)
 
+Currently Working on:
+1. Project using Microsoft Macro Assembler
+2. Big Data Analysis Project using Data Structures in C++
+3. Website using ASP.NET
+4. Google Cloud Platform Deployment
+5. Tableau and Python ML
+
 💼 Experience:
 
 1. Oracle E-Business Suite (BI+ERP+CRM+SCM) SQL DataBase-Administrator at Naveena Group (2020+)
 2. Data Science Instructor at Developer Student Club NUCES - Powered by Google Developers , NUCES-FAST KHI (2021)
-3. Google Cloud Platform Learner at Developer Student Club NUCES - Powered by Google Developers , NUCES-FAST KHI (2021)
 
 🏆 Achievements:
 
