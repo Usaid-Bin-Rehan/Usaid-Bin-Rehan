@@ -29,11 +29,10 @@ Tech Stack:
 - C++
 
 Currently Working on:
-1. Project using Microsoft Macro Assembler
-2. Big Data Analysis Project using Data Structures in C++
-3. Website using ASP.NET
-4. Google Cloud Platform Deployment
-5. Tableau and Python ML
+1. Big Data Analysis Project using Data Structures in C++
+2. Website using ASP.NET
+3. Google Cloud Platform Deployment
+4. Tableau and Python ML
 
 💼 Experience:
 
