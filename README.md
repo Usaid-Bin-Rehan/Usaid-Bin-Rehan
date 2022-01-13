@@ -29,10 +29,8 @@ Tech Stack:
 - C++
 
 Currently Working on:
-1. Big Data Analysis Project using Data Structures in C++
-2. Website using ASP.NET
-3. Google Cloud Platform Deployment
-4. Tableau and Python ML
+1. Website using ASP.NET
+2. Tableau and Python ML
 
 💼 Experience:
 
