@@ -16,7 +16,6 @@ Repositories:
 - Flutter & Firebase = 2
 - APIs = 3
 - PHP = 2
-- ASP.NET = 0
 - C++ = 2
 - Programming Paradigms = 5
 - Web Designing = 2
@@ -29,8 +28,7 @@ Tech Stack:
 - C++
 
 Currently Working on:
-1. Website using ASP.NET
-2. Tableau and Python ML
+1. Tableau and Python ML
 
 💼 Experience:
 
