@@ -23,12 +23,16 @@ Repositories:
 Tech Stack:
 - Oracle BI
 - Tableau
-- SQL
+- SQL (Oracle Toad)
 - Numpy / Pandas / Seaborn / Scikit-Learn
-- C++
+- C++ (DSA for Big Data)
+- Flutter-Firebase
+- MongoDB-ExpressJs-NodeJs
 
 Currently Working on:
 1. Tableau and Python ML
+2. Flutter API Integration
+3. Js Backend
 
 💼 Experience:
 
