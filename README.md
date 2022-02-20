@@ -1,43 +1,28 @@
 👨‍💻 About Me:
 
-Bs Computer Science Sophomore at NUCES-FAST KHI having experimental exposure in various frameworks / emerging-technologies and interested in mastering fundamentals before pursuing career as Data Scientist and specializing in Artificial Intelligence Development.
+Bs Computer Science Sophomore @ FAST-KHI pursuing career in Data Science and Machine Learning Web Development
 
 🛠️ Projects / Skills:
 
-Repositories:
-1. Repository on each Programming Paradigm (Unique_Programs as POP, Personal_Finance_Console_App includes Generic and OOP, Functional in Scala, Network in Perl, and Concurrent & Parallel in C++)
-2. Website Development: PHP Mini-Projects / APIs with Wrappers AND ASP.NET
-3. Cross-platform Development: Flutter Mini-Projects
-4. Business Intelligence Analytics: Oracle BI AND Tableau
-5. Predictive Data Analysis (Data Preprocessing & Machine Learning): Python (Numpy / Pandas / Seaborn / Sci-kit Learn)
-
-20+ Projects:
-- Python (Data Preprocessing - Numpy / Pandas / Seaborn) = 3
-- Flutter & Firebase = 2
-- APIs = 3
-- PHP = 2
-- C++ = 2
-- Programming Paradigms = 5
-- Web Designing = 2
-
 Tech Stack:
-- Oracle BI
-- Tableau
-- SQL (Oracle Toad)
-- Numpy / Pandas / Seaborn / Scikit-Learn
-- C++ (DSA for Big Data)
-- Flutter-Firebase
-- MongoDB-ExpressJs-NodeJs
+- Databases ( Data Collection & ELT )
+- Tableau ( Dashboard Reporting )
+- Numpy & Pandas / C++ & PySpark ( Big Data Business Analytics)
+- Scikit Learn ( Machine Learning )
+- Deployment ( REST-API Django / GCP / Express-Js )
 
-Currently Working on:
-1. Tableau and Python ML
-2. Flutter API Integration
-3. Js Backend
+Skills:
+- Oracle EBS ( ERP / OBIEE )
+- Probability and Statistics
+- Object-Oriented Program
+- Operating Systems ( Linux )
+- ETL ( Warehouse / Pipeline )
+- Information Processing ( Java / Scala )
 
 💼 Experience:
 
-1. Oracle E-Business Suite (BI+ERP+CRM+SCM) SQL DataBase-Administrator at Naveena Group (2020+)
-2. Data Science Instructor at Developer Student Club NUCES - Powered by Google Developers , NUCES-FAST KHI (2021)
+1. Oracle E-Business Suite (BI+ERP+CRM+SCM) SQL DataBase-Administrator at Naveena Group (2020 - 2021)
+2. Data Science Instructor at Developer Student Club NUCES - Powered by Google Developers , NUCES-FAST KHI (2021 - 2022)
 
 🏆 Achievements:
 
