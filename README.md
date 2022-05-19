@@ -32,15 +32,15 @@ Knowledge:
 Projects:
 
 - Exploratory Data Analysis of Sales  — Numpy / Pandas
-    Merged and cleaned data to analyze most profitable time for adverts without use of any computationally intensive ML
+    - Merged and cleaned data to analyze most profitable time for adverts without use of any computationally intensive ML
 - Predicting Credit Card Approvals  — Sklearn
-    Label encoded data and optimized the automated prediction accuracy by replacing Logistic Regression with GridSearch
+    - Label encoded data and optimized the automated prediction accuracy by replacing Logistic Regression with GridSearch
 - Data Structures for Ecommerce Big Data  — C++
-    Collaborated with group-mates to use problem solving skills to achieve time management cases: best O(1) and worst O(n)
+    - Collaborated with group-mates to use problem solving skills to achieve time management cases: best O(1) and worst O(n)
 - Sentiment Analysis (NLP)  — 8086 ASM
-    Lead the group to build first ever Sentiment Analysis SaaS in 8086 ASM that is faster than Js and lighter than Python versions
+    - Lead the group to build first ever Sentiment Analysis SaaS in 8086 ASM that is faster than Js and lighter than Python versions
 - Iris Flower Classification — Numpy / Pandas / Sklearn
-    As LGM virtual intern demonstrated a modular approach to statistical analysis reusable for multivariate use cases
+    - As LGM virtual intern demonstrated a modular approach to statistical analysis reusable for multivariate use cases
 
 
 Competitions:
