@@ -6,8 +6,8 @@ Bs Computer Science Sophomore @ FAST-KHI passionate about Backend Development ( 
 Tech Stack:
 
 - Tableau ( Business Analytics )
-- Numpy & Pandas ( Feature Engineering ) / C++ & PySpark ( Big Data )
-- Scikit Learn ( Machine Learning ) / Julia ( Mathematics )
+- Numpy & Pandas & Matplotlib ( Feature Engineering ) / C++ & PySpark ( Big Data )
+- Scikit Learn ( Machine Learning ) / Julia ( Equations )
 - Spacy ( Natural Language Processing )
 - Version Control ( Git )
 
