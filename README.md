@@ -26,7 +26,7 @@ Knowledge:
 - Probability and Statistics
 - Object-Oriented Programming
 - Operating Systems ( Linux )
-- Machine Learning ( Classification / Regression / Clustering / Hyperparameter Optimization / PCA / Time-Series / Random-Forests / Decision-Trees / Boosting )
+- Machine Learning ( Classification / Regression / Clustering / Hyperparameter-Tuning / PCA / Time-Series / Random-Forest / Decision-Tree / Boosting )
 
 
 Projects:
@@ -38,11 +38,17 @@ Projects:
 - Data Structures for Ecommerce Big Data  — C++
     Collaborated with group-mates to use problem solving skills to achieve time management cases: best O(1) and worst O(n)
 - Sentiment Analysis (NLP)  — 8086 ASM
-    Lead the group to build first ever Sentiment Analysis SaaS in 8086 ASM that is faster than Js and lighter than Py versions
+    Lead the group to build first ever Sentiment Analysis SaaS in 8086 ASM that is faster than Js and lighter than Python versions
 - Iris Flower Classification — Numpy / Pandas / Sklearn
     As LGM virtual intern demonstrated a modular approach to statistical analysis reusable for multivariate use cases
 
 
+Competitions:
+
+- ACM Coder's Cup: 2020 / 2021 / 2022
+- Procom Data Science 2022: Feature-based Classification of Bacteria Shapes ( Rank: 16 / 30 & Accuracy > 0.877 ) 
+- ACM Developer's Day Data Science 2022: Predict the likelihood of a genome sequence undergoing mutation ( Rank: 17 / 31 & Accuracy > 0.837 )
+- ACM Developer's Day Speed Debugging 2022: ( Among 12 / 40+ teams qualified to last round )
 
 Journey:
 
