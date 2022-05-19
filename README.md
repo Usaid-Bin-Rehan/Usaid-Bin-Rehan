@@ -52,7 +52,7 @@ Competitions:
 
 Journey:
 
-- Year 1: Programming Fundamentals + OOP + explored ( Kubernetes GCP + Django REST-API + Technical Writing + PHP + Flutter + Firebase + C# Blazor + Unreal Game-Dev. )
+- Year 1: HTML/CSS/ES6 + OOP (C++ / Python) + explored ( Kubernetes GCP + Django REST-API + Technical Writing + PHP + Flutter + Firebase + C# Blazor + Unreal Engine )
 - Intern: Oracle EBS Database Apprentice
 - Year 2: Data Structures + Competitive Programming + Business Analytics + Data Science + Operating Systems & Multithreading ( Linux ) + Version Control ( Git )
 - Intern: ...
