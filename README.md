@@ -47,7 +47,7 @@ Competitions:
 
 - ACM Coder's Cup: 2020 / 2021 / 2022
 - Procom Data Science 2022: Feature-based Classification of Bacteria Shapes ( Rank: 16 / 30 & Accuracy > 0.877 ) 
-- ACM Developer's Day Data Science 2022: Predict the likelihood of a genome sequence undergoing mutation ( Rank: 17 / 31 & Accuracy > 0.837 )
+- ACM Developer's Day Data Science 2022: Predict likelihood of Genome Sequence undergoing Mutation ( Rank: 17 / 31 & Accuracy > 0.837 )
 - ACM Developer's Day Speed Debugging 2022: ( Among 12 / 40+ teams qualified to last round )
 
 Journey:
