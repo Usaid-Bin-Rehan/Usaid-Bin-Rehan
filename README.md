@@ -14,10 +14,10 @@ Tech Stack:
 
 Eager to Learn:
 
-- Databases ( SQL / MongoDB )
+- Databases
 - Software Design
 - Backend ( Springboot / ExpressJs / Android )
-- Cloud ( AWS )
+- AWS
 - Data Engineering
 
 
