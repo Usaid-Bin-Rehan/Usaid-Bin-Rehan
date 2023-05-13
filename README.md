@@ -1,6 +1,3 @@
-<!-- Typing SVG -->
-[![Typing SVG](https://readme-typing-svg.demolab.com/?lines=MERN-Developer;NLP+Data-Engineer+/+MLOps-Engineer)](https://git.io/typing-svg)
-
 <!-- Skills with badges -->
 ## Skills
 ![Skill: NodeJs](https://img.shields.io/badge/NodeJs-Intermediate-blue)
@@ -21,3 +18,6 @@
 <!-- Trophy -->
 ## GitHub Trophies
 [![trophy](https://github-profile-trophy.vercel.app/?username=Usaid-Bin-Rehan&r&title=Stars,Repositories,Commits,Issues,PullRequest,MultiLanguage&theme=matrix)](https://github.com/ryo-ma/github-profile-trophy)
+
+<!-- Typing SVG -->
+[![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Open-Source+Creations+below:)](https://git.io/typing-svg)
