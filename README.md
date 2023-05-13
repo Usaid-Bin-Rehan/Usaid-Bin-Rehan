@@ -1,7 +1,7 @@
 Usaid is passionate about building value driven solutions to everyday problems and generating insights from an early age. He has utilized his skills in diverse roles, from Data Analytics to Software Engineer along with Machine Learning (NLP) teaching @ GDSC, with a tech agnostic mindset.
 
 <!-- Typing SVG -->
-[![Typing SVG](https://readme-typing-svg.demolab.com/?lines=MERN-Developer;NLP+Data-Engineering+MLOps)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com/?lines=MERN-Developer;NLP+Data-Engineer+/+MLOps-Engineer)](https://git.io/typing-svg)
 
 <!-- Skills with badges -->
 ## Skills
