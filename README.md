@@ -16,7 +16,7 @@
 ![Skill: Langchain](https://img.shields.io/badge/Langchain-Beginner-green)
 
 <!-- Trophy -->
-## GitHub Trophies
+## Achievements
 [![trophy](https://github-profile-trophy.vercel.app/?username=Usaid-Bin-Rehan&r&title=Stars,Repositories,Commits,Issues,PullRequest,MultiLanguage&theme=matrix)](https://github.com/ryo-ma/github-profile-trophy)
 
 <!-- Typing SVG -->
