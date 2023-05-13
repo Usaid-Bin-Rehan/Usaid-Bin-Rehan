@@ -12,4 +12,4 @@ Usaid is passionate about building value driven solutions to everyday problems a
 
 <!-- Trophy -->
 ## GitHub Trophies
-[![trophy](https://github-profile-trophy.vercel.app/?username=Usaid-Bin-Rehan&r&title=Stars,Repositories,Commits,Issues,PullRequest&theme=matrix)](https://github.com/ryo-ma/github-profile-trophy)
+[![trophy](https://github-profile-trophy.vercel.app/?username=Usaid-Bin-Rehan&r&title=Stars,Repositories,Commits,Issues,PullRequest,MultiLanguage&theme=matrix)](https://github.com/ryo-ma/github-profile-trophy)
