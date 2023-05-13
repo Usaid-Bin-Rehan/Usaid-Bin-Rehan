@@ -1,19 +1,19 @@
 <!-- Skills with badges -->
 ## Skills
-![Skill: NodeJs](https://img.shields.io/badge/NodeJs-Intermediate-blue)
-![Skill: ExpressJs](https://img.shields.io/badge/ExpressJs-Intermediate-blue)
-![Skill: MongoDB](https://img.shields.io/badge/MongoDB-Intermediate-blue)
-![Skill: React](https://img.shields.io/badge/React-Intermediate-blue)
-![Skill: Firebase](https://img.shields.io/badge/Firebase-Intermediate-blue)
-![Skill: Flask](https://img.shields.io/badge/Flask-Intermediate-blue)
-![Skill: Next](https://img.shields.io/badge/Next-Intermediate-blue)
-![Skill: SpaCy](https://img.shields.io/badge/SpaCy-Intermediate-blue)
-![Skill: RASA](https://img.shields.io/badge/RASA-Beginner-blue)
-![Skill: Spark](https://img.shields.io/badge/Spark-Beginner-blue)
-![Skill: Kafka](https://img.shields.io/badge/Kafka-Beginner-blue)
-![Skill: Airflow](https://img.shields.io/badge/Airflow-Beginner-blue)
-![Skill: Pinecone](https://img.shields.io/badge/Pinecone-Beginner-blue)
-![Skill: Langchain](https://img.shields.io/badge/Langchain-Beginner-blue)
+![Skill: NodeJs](https://img.shields.io/badge/NodeJs-Intermediate-green)
+![Skill: ExpressJs](https://img.shields.io/badge/ExpressJs-Intermediate-green)
+![Skill: MongoDB](https://img.shields.io/badge/MongoDB-Intermediate-green)
+![Skill: React](https://img.shields.io/badge/React-Intermediate-green)
+![Skill: Flask](https://img.shields.io/badge/Flask-Intermediate-green)
+![Skill: Next](https://img.shields.io/badge/Next-Intermediate-green)
+![Skill: SpaCy](https://img.shields.io/badge/SpaCy-Intermediate-green)
+![Skill: Firebase](https://img.shields.io/badge/Firebase-Beginner-green)
+![Skill: RASA](https://img.shields.io/badge/RASA-Beginner-green)
+![Skill: Spark](https://img.shields.io/badge/Spark-Beginner-green)
+![Skill: Kafka](https://img.shields.io/badge/Kafka-Beginner-green)
+![Skill: Airflow](https://img.shields.io/badge/Airflow-Beginner-green)
+![Skill: Pinecone](https://img.shields.io/badge/Pinecone-Beginner-green)
+![Skill: Langchain](https://img.shields.io/badge/Langchain-Beginner-green)
 
 <!-- Trophy -->
 ## GitHub Trophies
