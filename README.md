@@ -1,14 +1,22 @@
-Usaid is passionate about building value driven solutions to everyday problems and generating insights from an early age. He has utilized his skills in diverse roles, from Data Analytics to Software Engineer along with Machine Learning (NLP) teaching @ GDSC, with a tech agnostic mindset.
-
 <!-- Typing SVG -->
 [![Typing SVG](https://readme-typing-svg.demolab.com/?lines=MERN-Developer;NLP+Data-Engineer+/+MLOps-Engineer)](https://git.io/typing-svg)
 
 <!-- Skills with badges -->
 ## Skills
-![Skill: MERN](https://img.shields.io/badge/Skill%20Name-Skill%20Level-blue)
-![Skill: NLP](https://img.shields.io/badge/Skill%20Name-Skill%20Level-blue)
-![Skill: Data-Engineering](https://img.shields.io/badge/Skill%20Name-Skill%20Level-blue)
-![Skill: MLOps](https://img.shields.io/badge/Skill%20Name-Skill%20Level-blue)
+![Skill: NodeJs](https://img.shields.io/badge/NodeJs-Intermediate-blue)
+![Skill: ExpressJs](https://img.shields.io/badge/ExpressJs-Intermediate-blue)
+![Skill: MongoDB](https://img.shields.io/badge/MongoDB-Intermediate-blue)
+![Skill: React](https://img.shields.io/badge/React-Intermediate-blue)
+![Skill: Firebase](https://img.shields.io/badge/Firebase-Intermediate-blue)
+![Skill: Flask](https://img.shields.io/badge/Flask-Intermediate-blue)
+![Skill: Next](https://img.shields.io/badge/Next-Intermediate-blue)
+![Skill: SpaCy](https://img.shields.io/badge/SpaCy-Intermediate-blue)
+![Skill: RASA](https://img.shields.io/badge/RASA-Beginner-blue)
+![Skill: Spark](https://img.shields.io/badge/Spark-Beginner-blue)
+![Skill: Kafka](https://img.shields.io/badge/Kafka-Beginner-blue)
+![Skill: Airflow](https://img.shields.io/badge/Airflow-Beginner-blue)
+![Skill: Pinecone](https://img.shields.io/badge/Pinecone-Beginner-blue)
+![Skill: Langchain](https://img.shields.io/badge/Langchain-Beginner-blue)
 
 <!-- Trophy -->
 ## GitHub Trophies
