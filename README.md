@@ -20,13 +20,13 @@
 [![trophy](https://github-profile-trophy.vercel.app/?username=Usaid-Bin-Rehan&r&title=Stars,Repositories,Commits,Issues,PullRequest,MultiLanguage&theme=matrix)](https://github.com/ryo-ma/github-profile-trophy)
 
 <!-- GitHub Stats -->
-![Github stats](https://github-readme-stats.vercel.app/api?username=Usaid-Bin-Rehan&show_icons=true&theme=dark)
+![Github stats](https://github-readme-stats.vercel.app/api?username=Usaid-Bin-Rehan&show_icons=true&theme=tokyonight)
 
 <!-- Most Used Languages -->
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Usaid-Bin-Rehan&langs_count=8&layout=compact&theme=dark)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Usaid-Bin-Rehan&langs_count=8&layout=compact&theme=tokyonight)
 
 <!-- GitHub Streaks -->
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Usaid-Bin-Rehan&theme=dark)
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Usaid-Bin-Rehan&theme=tokyonight)
 
 <!-- Typing SVG -->
 [![Typing SVG](https://readme-typing-svg.demolab.com/?lines=MVP+Open-Source+Contributions+below:&color=%232ecc71)](https://git.io/typing-svg)
