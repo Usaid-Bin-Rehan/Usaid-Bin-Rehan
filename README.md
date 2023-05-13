@@ -20,4 +20,4 @@
 [![trophy](https://github-profile-trophy.vercel.app/?username=Usaid-Bin-Rehan&r&title=Stars,Repositories,Commits,Issues,PullRequest,MultiLanguage&theme=matrix)](https://github.com/ryo-ma/github-profile-trophy)
 
 <!-- Typing SVG -->
-[![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Open-Source+Contributions+below:)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com/?lines=MVP+Open-Source+Contributions+below:&color=%232ecc71)](https://git.io/typing-svg)
