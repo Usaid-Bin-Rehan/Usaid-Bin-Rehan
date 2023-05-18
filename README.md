@@ -8,7 +8,6 @@
 ![Skill: Next](https://img.shields.io/badge/Next-Intermediate-green)
 ![Skill: SpaCy](https://img.shields.io/badge/SpaCy-Intermediate-green)
 ![Skill: Firebase](https://img.shields.io/badge/Firebase-Beginner-green)
-![Skill: RASA](https://img.shields.io/badge/RASA-Beginner-green)
 ![Skill: Spark](https://img.shields.io/badge/Spark-Beginner-green)
 ![Skill: Kafka](https://img.shields.io/badge/Kafka-Beginner-green)
 ![Skill: Airflow](https://img.shields.io/badge/Airflow-Beginner-green)
