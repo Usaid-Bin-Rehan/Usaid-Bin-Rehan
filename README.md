@@ -22,4 +22,4 @@
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Usaid-Bin-Rehan&theme=tokyonight)
 
 <!-- Typing SVG -->
-[![Typing SVG](https://readme-typing-svg.demolab.com/?lines=MVP+Open-Source+Contributions+below:&color=%232ecc71)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com/?lines=MVP+and+Live+Open-Source+Contributions+below:&color=%232ecc71)](https://git.io/typing-svg)
