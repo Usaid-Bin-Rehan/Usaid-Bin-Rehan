@@ -1,11 +1,11 @@
 <!-- Skills with badges -->
 ## Skills
-![Skill: Product_Analytics](https://img.shields.io/badge/Product_Analytics-Intermediate-green)
+![Skill: NodeJs](https://img.shields.io/badge/NodeJs-Intermediate-green)
 ![Skill: ETL](https://img.shields.io/badge/ETL-Intermediate-green)
 ![Skill: Python_Development](https://img.shields.io/badge/Python_Development-Intermediate-green)
 ![Skill: LLMs_&_Chatbots](https://img.shields.io/badge/_Chatbots-Intermediate-green)
 ![Skill: Recommender_Systems](https://img.shields.io/badge/Recommender_Systems-Intermediate-green)
-![Skill: NodeJs](https://img.shields.io/badge/NodeJs-Intermediate-green)
+![Skill: Product_Analytics](https://img.shields.io/badge/Product_Analytics-Intermediate-green)
 ![Skill: Deep_Learning](https://img.shields.io/badge/Deep_Learning-Beginner-green)
 ![Skill: LakeHousing](https://img.shields.io/badge/LakeHousing-Beginner-green)
 ![Skill: Stream_Processing](https://img.shields.io/badge/Stream_Processing-Beginner-green)
