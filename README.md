@@ -1,18 +1,15 @@
 <!-- Skills with badges -->
 ## Skills
 ![Skill: NodeJs](https://img.shields.io/badge/NodeJs-Intermediate-green)
-![Skill: ExpressJs](https://img.shields.io/badge/ExpressJs-Intermediate-green)
-![Skill: MongoDB](https://img.shields.io/badge/MongoDB-Intermediate-green)
-![Skill: React](https://img.shields.io/badge/React-Intermediate-green)
-![Skill: Flask](https://img.shields.io/badge/Flask-Intermediate-green)
-![Skill: Next](https://img.shields.io/badge/Next-Intermediate-green)
-![Skill: SpaCy](https://img.shields.io/badge/SpaCy-Intermediate-green)
-![Skill: Firebase](https://img.shields.io/badge/Firebase-Beginner-green)
-![Skill: Spark](https://img.shields.io/badge/Spark-Beginner-green)
-![Skill: Kafka](https://img.shields.io/badge/Kafka-Beginner-green)
-![Skill: Airflow](https://img.shields.io/badge/Airflow-Beginner-green)
-![Skill: Pinecone](https://img.shields.io/badge/Pinecone-Beginner-green)
-![Skill: Langchain](https://img.shields.io/badge/Langchain-Beginner-green)
+![Skill: ETL](https://img.shields.io/badge/ETL-Intermediate-green)
+![Skill: Python_Development](https://img.shields.io/badge/Python_Development-Intermediate-green)
+![Skill: LLMs_&_Chatbots](https://img.shields.io/badge/_Chatbots-Intermediate-green)
+![Skill: Recommender_Systems](https://img.shields.io/badge/Recommender_Systems-Intermediate-green)
+![Skill: Product_Analytics](https://img.shields.io/badge/Product_Analytics-Intermediate-green)
+![Skill: Deep_Learning](https://img.shields.io/badge/Deep_Learning-Intermediate-green)
+![Skill: LakeHousing](https://img.shields.io/badge/LakeHousing-Beginner-green)
+![Skill: Stream_Processing](https://img.shields.io/badge/Stream_Processing-Beginner-green)
+![Skill: Cloud_MLOps](https://img.shields.io/badge/Cloud_MLOps-Beginner-green)
 
 <!-- Trophy -->
 ## Achievements
