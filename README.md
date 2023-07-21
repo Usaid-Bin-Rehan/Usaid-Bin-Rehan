@@ -6,7 +6,7 @@
 ![Skill: LLMs_&_Chatbots](https://img.shields.io/badge/_Chatbots-Intermediate-green)
 ![Skill: Recommender_Systems](https://img.shields.io/badge/Recommender_Systems-Intermediate-green)
 ![Skill: Product_Analytics](https://img.shields.io/badge/Product_Analytics-Intermediate-green)
-![Skill: Deep_Learning](https://img.shields.io/badge/Deep_Learning-Beginner-green)
+![Skill: Deep_Learning](https://img.shields.io/badge/Deep_Learning-Intermediate-green)
 ![Skill: LakeHousing](https://img.shields.io/badge/LakeHousing-Beginner-green)
 ![Skill: Stream_Processing](https://img.shields.io/badge/Stream_Processing-Beginner-green)
 ![Skill: Cloud_MLOps](https://img.shields.io/badge/Cloud_MLOps-Beginner-green)
