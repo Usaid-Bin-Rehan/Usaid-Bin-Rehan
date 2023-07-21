@@ -1,3 +1,5 @@
+![mario](https://raw.githubusercontent.com/Usaid-Bin-Rehan/Usaid-Bin-Rehan/main/green_mario.gif)
+
 <!-- Skills with badges -->
 ## Skills
 ![Skill: NodeJs](https://img.shields.io/badge/NodeJs-Intermediate-green)
