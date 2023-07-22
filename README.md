@@ -3,7 +3,7 @@
 <!-- Skills with badges -->
 ## Skills
 ![Skill: NodeJs](https://img.shields.io/badge/NodeJs-Intermediate-green)
-![Skill: ETL](https://img.shields.io/badge/ETL-Intermediate-green)
+![Skill: IR](https://img.shields.io/badge/IR-Intermediate-green)
 ![Skill: Python_Development](https://img.shields.io/badge/Python_Development-Intermediate-green)
 ![Skill: LLMs_&_Chatbots](https://img.shields.io/badge/_Chatbots-Intermediate-green)
 ![Skill: Recommender_Systems](https://img.shields.io/badge/Recommender_Systems-Intermediate-green)
