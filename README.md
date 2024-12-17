@@ -1,7 +1,8 @@
 ![mario](https://raw.githubusercontent.com/Usaid-Bin-Rehan/Usaid-Bin-Rehan/main/green_mario.gif)
 
 <!-- Skills with badges -->
-## Skills![Skill: Git](https://img.shields.io/badge/Git-Beginner-blue)
+## Skills
+![Skill: Git](https://img.shields.io/badge/Git-Beginner-blue)
 ![Skill: Jenkins](https://img.shields.io/badge/Jenkins-Beginner-blue)
 ![Skill: Terraform](https://img.shields.io/badge/Terraform-Beginner-blue)
 ![Skill: Ansible](https://img.shields.io/badge/Ansible-Beginner-blue)
