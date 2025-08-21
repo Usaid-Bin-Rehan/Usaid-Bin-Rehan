@@ -1,57 +1,28 @@
-![mario](https://raw.githubusercontent.com/Usaid-Bin-Rehan/Usaid-Bin-Rehan/main/green_mario.gif)
+![github cover](https://github.com/Syed007Hassan/Syed007Hassan/assets/104893311/dead2d22-a0da-4ab1-8443-c7325b0a057e)
 
-<!-- Skills with badges -->
-## Skills
-![Skill: Git](https://img.shields.io/badge/Git-Beginner-blue)
-![Skill: Jenkins](https://img.shields.io/badge/Jenkins-Beginner-blue)
-![Skill: Terraform](https://img.shields.io/badge/Terraform-Beginner-blue)
-![Skill: Ansible](https://img.shields.io/badge/Ansible-Beginner-blue)
-![Skill: MinimalAPI](https://img.shields.io/badge/MinimalAPI-Intermediate-blue)
-![Skill: Auth](https://img.shields.io/badge/Auth-Intermediate-blue)
-![Skill: CleanArchitecture](https://img.shields.io/badge/CleanArchitecture-Intermediate-blue)
-![Skill: gRPC](https://img.shields.io/badge/gRPC-Intermediate-blue)
-![Skill: NATS](https://img.shields.io/badge/NATS-Beginner-blue)
-![Skill: SignalR](https://img.shields.io/badge/SignalR-Beginner-blue)
-![Skill: WebHooks](https://img.shields.io/badge/WebHooks-Intermediate-blue)
-![Skill: Kubernetes](https://img.shields.io/badge/Kubernetes-Beginner-blue)
-![Skill: ECR](https://img.shields.io/badge/ECR-Beginner-blue)
-![Skill: OpenTelemetry](https://img.shields.io/badge/OpenTelemetry-Beginner-blue)
-![Skill: Nginx](https://img.shields.io/badge/Nginx-Beginner-blue)
-![Skill: Ocelot](https://img.shields.io/badge/Nginx-Beginner-blue)
-![Skill: Istio](https://img.shields.io/badge/Istio-Beginner-blue)
-![Skill: WorkflowScheduling](https://img.shields.io/badge/WorkflowScheduling-Beginner-blue)
-![Skill: Quartz](https://img.shields.io/badge/Quartz-Beginner-blue)
-![Skill: Elsa](https://img.shields.io/badge/Elsa-Beginner-blue)
-![Skill: Middleware](https://img.shields.io/badge/Middleware-Intermediate-blue)
-![Skill: MediatR](https://img.shields.io/badge/MediatR-Beginner-blue)
-![Skill: Redis](https://img.shields.io/badge/Redis-Intermediate-blue)
-![Skill: RestAssured](https://img.shields.io/badge/RestAssured-Beginner-blue)
-![Skill: Selenium](https://img.shields.io/badge/Selenium-Beginner-blue)
-![Skill: Cucumber](https://img.shields.io/badge/Cucumber-Beginner-blue)
-![Skill: MultiAgent_RAG](https://img.shields.io/badge/MultiAgent_RAG-Beginner-blue)
-![Skill: LangGraph](https://img.shields.io/badge/LangGraph-Beginner-blue)
-![Skill: LangSmith](https://img.shields.io/badge/LangSmith-Beginner-blue)
-![Skill: Fast](https://img.shields.io/badge/Fast-Beginner-blue)
-![Skill: .NET_Core](https://img.shields.io/badge/.NET_Core-Intermediate-blue)
-![Skill: Microservices](https://img.shields.io/badge/Microservices-Intermediate-blue)
-![Skill: Generative_AI](https://img.shields.io/badge/Generative_AI-Intermediate-blue)
-![Skill: LLMs](https://img.shields.io/badge/LLMs-Intermediate-blue)
-![Skill: LangChain](https://img.shields.io/badge/LangChain-Beginner-blue)
-![Skill: NLP](https://img.shields.io/badge/NLP-Intermediate-blue)
-![Skill: OpenAI](https://img.shields.io/badge/OpenAI-Beginner-blue)
-![Skill: ETL](https://img.shields.io/badge/ETL-Intermediate-blue)
-![Skill: CICD](https://img.shields.io/badge/CICD-Intermediate-blue)
-![Skill: Telemetry](https://img.shields.io/badge/Telemetry-Beginner-blue)
-![Skill: DockerSwarm](https://img.shields.io/badge/DockerSwarm-Intermediate-blue)
-![Skill: Azure](https://img.shields.io/badge/Azure-Intermediate-blue)
-![Skill: AWS](https://img.shields.io/badge/AWS-Intermediate-blue)
-![Skill: SDET](https://img.shields.io/badge/SDET-Beginner-blue)
-![Skill: JavaSpringboot](https://img.shields.io/badge/JavaSpringboot-Beginner-blue)
-![Skill: MERN](https://img.shields.io/badge/MERN-Beginner-blue)
-![Skill: RabbitMQ](https://img.shields.io/badge/RabbitMQ-Beginner-blue)
-![Skill: FineTuning](https://img.shields.io/badge/FineTuning-Beginner-blue)
-![Skill: PyTorch](https://img.shields.io/badge/PyTorch-Beginner-blue)
 
+<p align="center"> 
+  <img src="https://komarev.com/ghpvc/?username=Usaid-Bin-Rehan&label=Profile%20views&color=0e75b6&style=flat" alt="Usaid-Bin-Rehan" /> 
+</p>
+
+
+<img align="right" alt="GIF" height="245px" src="https://user-images.githubusercontent.com/104893311/219148682-fd27b1a7-85a4-4ac7-8a49-6025a58fb62c.gif" />
+
+- 🐦 I’m currently exploring **Agentic AI for Enterprise**
+- ⚙️ Experienced in **System Design**
+- 💪🏼 Backend strong
+- ⚡ Major Experience:
+    - Auth Systems
+    - Manufacturing SaaS
+    - RPA PaaS
+- 💼 Work: I love templating and sharing best practices
+
+<p>
+</p>
+
+# 💻Tech Stack <img src = "https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width = 32px> 
+
+[![My Skills](https://skillicons.dev/icons?i=py,cs,java,ts,dotnet,nextjs,angular,nodejs,express,nestjs,spring,postgres,mongodb,aws,azure,docker,kubernetes,jenkins,terraform,prometheus,grafana&theme=dark)](https://skillicons.dev)
 
 <!-- Trophy -->
 ## Achievements
